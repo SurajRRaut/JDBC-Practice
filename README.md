@@ -25,9 +25,11 @@ To get started with this project, follow these steps:
 
 This repository includes the following resources:
 
-- `JDBC-Practice/`: Contains the source code files for the JDBC practice project.
+- `JDBC-Practice/`: Contains the source code files for the JDBC practice project(Easily Access In main Branch)
 
-- `MySQL Database/`: Includes SQL script files for setting up the sample database and necessary tables.
+-  `src/`: (With pom.xml file) Contains the source code files for the JDBC practice project(in src folder In main2 Branch)
+ 
+- `MySQL Database/`: Includes SQL script files for setting up the sample database and necessary tables(in my database)
 
 - `README.md`: Provides an overview of the project and instructions on getting started.
 
